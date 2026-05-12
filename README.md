@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Sneha, a B.Tech graduate in Computer Science Engineering, currently learning and exploring the world of programming, web development, and AI with great interest
+I'm Sneha, a B.Tech graduate in Computer Science Engineering, currently learning and exploring the world of programming, web development, and AI with great interest.
 Looking forward to opportunities to learn and grow in the tech field.
